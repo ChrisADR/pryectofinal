@@ -1,8 +1,6 @@
 # proyecto-final
 
 
-
-
 ## Project setup
 ```
 npm install
